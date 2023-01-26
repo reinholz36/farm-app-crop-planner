@@ -22,7 +22,7 @@
     "url": "https://github.com/woffordlm/farm-app-crop-planner/issues"
   },
   "homepage": "https://github.com/woffordlm/farm-app-crop-planner#readme",
-  "dependencies": {
+  "devDependencies": {
     "concurrently": "^7.1.0"
   }
 }
